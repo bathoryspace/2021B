@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Üdv az oldalon!
 
-You can use the [editor on GitHub](https://github.com/bathoryspace/2021B/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Ide majd jön valami kreatív szöveg, ismertető, további linkek...
+Remélhetőleg minél hamarabb, és ezt nem hónapokkal a QR kód elhelyezése után látod.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cím
 
-### Markdown
+Itt folytatódhat esetleg a fent stílusosan elkezdett szöveg.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Felsorolásokat is lehet írni:
+- ka8lap7
+- tek5nos4
+- lab1da3
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bathoryspace/2021B/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+És további infólabor-jelszavak
